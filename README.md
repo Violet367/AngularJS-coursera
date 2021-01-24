@@ -1,2 +1,2 @@
-# AngulayJS-coursera
+# AngularJS-coursera
 Course
