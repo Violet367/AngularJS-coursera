@@ -1,2 +1,2 @@
 # AngularJS-coursera
-Course
+Violet Gooding's Course work
